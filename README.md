@@ -23,4 +23,4 @@ This is a simple calculator built with HTML, CSS and JavaScript. The project all
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/LennoxP/simpleCalculator.git
